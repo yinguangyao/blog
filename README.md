@@ -20,6 +20,7 @@
 
  1. [redux源码分析][12]
  2. [react状态管理][13]
+ 3. [react查漏补缺][16]
 
 ## TypeScript
 
@@ -47,3 +48,4 @@
   [13]: http://ygy.online/2018/10/05/react%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/
   [14]: http://ygy.online/2018/11/22/TypeScript%E8%B8%A9%E5%9D%91%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/
   [15]: http://ygy.online/2018/05/09/JS%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96/
+  [16]: http://ygy.online/2018/11/25/react%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA/
