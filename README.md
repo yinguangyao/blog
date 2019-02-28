@@ -1,4 +1,4 @@
-这是我的博客。
+这是我的个人博客，目前打算是写underscore源码分析系列、react系列和TypeScript系列三部分。
 ## 前端
 
  1. [实现一个bind函数][1]
@@ -16,21 +16,19 @@
  7. [underscore查找索引函数分析][10]
  8. [60行代码实现模板引擎][11]
 
-## react
+## react系列
 
  1. [redux源码分析][12]
  2. [react状态管理][13]
  3. [react查漏补缺][16]
 
-## TypeScript
+## TypeScript系列
 
  1. [TypeScript踩坑（持续更新）][14]
 
-## 函数式编程
+## 函数式编程系列
 
  1. [JS函数柯里化][15]
-## 数据结构与算法
-## react源码分析
 
 
   [1]: http://ygy.online/2018/05/30/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAbind%E5%87%BD%E6%95%B0/
