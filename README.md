@@ -21,7 +21,7 @@
  1. [redux源码分析][12]
  2. [react状态管理][13]
  3. [react查漏补缺][16]
- 4. [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)
+ 4. [mobx项目实践](https://github.com/yinguangyao/blog/issues/9) 
 
 ## TypeScript系列
 
@@ -30,6 +30,12 @@
 ## 函数式编程系列
 
  1. [JS函数柯里化][15]
+ 
+## 编程技巧
+
+ 1. [表驱动法](https://github.com/yinguangyao/blog/issues/14)
+ 2. [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)
+ 
 ## 总结
  1. [再见，携程](https://github.com/yinguangyao/blog/issues/24) 
  2. [2019展望](https://github.com/yinguangyao/blog/issues/21) 
