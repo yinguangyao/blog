@@ -1,4 +1,4 @@
-这是我的个人博客，目前分为underscore源码分析系列、react系列和TypeScript系列和编程技巧相关的四个部分。
+这是我的个人博客，目前分为underscore源码分析系列、React系列和TypeScript系列和编程技巧相关的四个部分。
 
 ## underscore源码分析
 
@@ -22,16 +22,18 @@
 
  1. [TypeScript踩坑（持续更新）][14]
 
-## 函数式编程系列
-
- 1. [JS函数柯里化][15]
  
 ## 编程技巧
 
  1. [表驱动法](https://github.com/yinguangyao/blog/issues/14)
  2. [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)
+
+## 函数式编程
+
+ 1. [JS函数柯里化][15]
  
-## 总结
+## 阶段总结
+
  1. [再见，携程](https://github.com/yinguangyao/blog/issues/24) 
  2. [2019展望](https://github.com/yinguangyao/blog/issues/21) 
 
