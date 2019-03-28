@@ -1,9 +1,4 @@
-这是我的个人博客，目前打算是写underscore源码分析系列、react系列和TypeScript系列三部分。
-## 前端
-
- 1. [实现一个bind函数][1]
- 2. [《编写可维护的JS》笔记][2]
- 3. [JS排序算法][3]
+这是我的个人博客，目前分为underscore源码分析系列、react系列和TypeScript系列和编程技巧相关的四个部分。
 
 ## underscore源码分析
 
@@ -40,6 +35,15 @@
  1. [再见，携程](https://github.com/yinguangyao/blog/issues/24) 
  2. [2019展望](https://github.com/yinguangyao/blog/issues/21) 
 
+## 其他
+
+ 1. [实现一个bind函数][1]
+ 2. [《编写可维护的JS》笔记][2]
+ 3. [JS排序算法][3]
+
+**PS**：欢迎大家关注我的公众号【前端小馆】，欢迎大家留言和我一起来讨论技术。
+
+![前端小馆](https://camo.githubusercontent.com/52bd28d51af773353699a474b996d22a197bd860/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031392f332f32312f313639396530386565323330663863343f773d31323926683d31323926663d706e6726733d3132383138)
 
   [1]: http://ygy.online/2018/05/30/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAbind%E5%87%BD%E6%95%B0/
   [2]: http://ygy.online/2018/07/07/%E3%80%8A%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JS%E3%80%8B%E7%AC%94%E8%AE%B0/
