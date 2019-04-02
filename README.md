@@ -1,7 +1,7 @@
 这是我的个人博客，目前分为underscore源码分析系列、React系列和TypeScript系列和编程技巧相关的四个部分。
-如果有兴趣，可以关注我的个人网站：ygy.online
+如果有兴趣，可以关注我的个人网站：[世界变了样](ygy.online)
 
-## underscore源码分析
+## underscore源码剖析
 
  1. [underscore源码剖析之整体架构][4]
  2. [underscore源码剖析之基础方法][5]
@@ -12,14 +12,14 @@
  7. [underscore查找索引函数分析][10]
  8. [60行代码实现模板引擎][11]
 
-## react系列
+## react杂谈
 
  1. [redux源码分析][12]
  2. [react状态管理][13]
  3. [react查漏补缺][16]
  4. [mobx项目实践](https://github.com/yinguangyao/blog/issues/9) 
 
-## TypeScript系列
+## 来玩TypeScript啊
 
  1. [TypeScript踩坑（持续更新）][14]
 
@@ -29,20 +29,19 @@
  1. [表驱动法](https://github.com/yinguangyao/blog/issues/14)
  2. [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)
 
-## 函数式编程
 
- 1. [JS函数柯里化][15]
- 
-## 阶段总结
+## 总结
 
  1. [再见，携程](https://github.com/yinguangyao/blog/issues/24) 
  2. [2019展望](https://github.com/yinguangyao/blog/issues/21) 
+ 3. [富爸爸，穷爸爸](https://github.com/yinguangyao/blog/issues/25)
 
 ## 其他
 
  1. [实现一个bind函数][1]
  2. [《编写可维护的JS》笔记][2]
  3. [JS排序算法][3]
+ 4. [JS函数柯里化][15]
 
 **PS**：欢迎大家关注我的公众号【前端小馆】，欢迎大家留言和我一起来讨论技术。
 
