@@ -19,7 +19,8 @@
  2. [react状态管理][13]
  3. [react查漏补缺][16]
  4. [mobx项目实践](https://github.com/yinguangyao/blog/issues/9) 
- 5. [浅谈一种新的状态管理实现](https://github.com/yinguangyao/blog/issues/26)
+ 5. [浅谈一种新的状态管理实现](https://github.com/yinguangyao/blog/issues/26)    
+ 6. [浅谈react diff实现](https://github.com/yinguangyao/blog/issues/27) 
 
 ## 来玩TypeScript啊
 
