@@ -45,6 +45,7 @@
  2. [《编写可维护的JS》笔记][2]
  3. [JS排序算法][3]
  4. [JS函数柯里化][15]
+ 5. [mock server实践](https://github.com/yinguangyao/blog/issues/28)
 
 **PS**：欢迎大家关注我的公众号【前端小馆】，欢迎大家留言和我一起来讨论技术。
 
