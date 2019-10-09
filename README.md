@@ -46,6 +46,8 @@
  3. [JS排序算法][3]
  4. [JS函数柯里化][15]
  5. [mock server实践](https://github.com/yinguangyao/blog/issues/28)
+ 6. [从 ECMA 规范看 JavaScript 类型转换](https://github.com/yinguangyao/blog/issues/30)
+ 7. [深入理解 JavaScript 中的类与继承](https://github.com/yinguangyao/blog/issues/29)
 
 **PS**：欢迎大家关注我的公众号【前端小馆】，欢迎大家留言和我一起来讨论技术。
 
