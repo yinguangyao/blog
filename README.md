@@ -1,6 +1,5 @@
 这是我的个人博客，目前分为underscore源码分析系列、React系列和TypeScript系列和编程技巧相关的四个部分。
 
-如果有兴趣，可以关注我的个人网站：[世界变了样](http://ygy.online)
 
 ## underscore源码剖析
 
