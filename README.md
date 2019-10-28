@@ -31,7 +31,15 @@
  1. [表驱动法](https://github.com/yinguangyao/blog/issues/14)
  2. [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)
 
+## JavaScript 相关
 
+ 1. [实现一个bind函数][1]
+ 2. [《编写可维护的JS》笔记][2]
+ 3. [JS排序算法][3]
+ 4. [JS函数柯里化][15]
+ 5. [从 ECMA 规范看 JavaScript 类型转换](https://github.com/yinguangyao/blog/issues/30)
+ 6. [深入理解 JavaScript 中的类与继承](https://github.com/yinguangyao/blog/issues/29)
+ 
 ## 总结
 
  1. [再见，携程](https://github.com/yinguangyao/blog/issues/24) 
@@ -40,13 +48,9 @@
 
 ## 其他
 
- 1. [实现一个bind函数][1]
- 2. [《编写可维护的JS》笔记][2]
- 3. [JS排序算法][3]
- 4. [JS函数柯里化][15]
- 5. [mock server实践](https://github.com/yinguangyao/blog/issues/28)
- 6. [从 ECMA 规范看 JavaScript 类型转换](https://github.com/yinguangyao/blog/issues/30)
- 7. [深入理解 JavaScript 中的类与继承](https://github.com/yinguangyao/blog/issues/29)
+ 1. [mock server实践](https://github.com/yinguangyao/blog/issues/28)
+ 2. [关于编程学习](https://github.com/yinguangyao/blog/issues/31)
+ 3. [记一个跨域问题](https://github.com/yinguangyao/blog/issues/32)
 
 **PS**：欢迎大家关注我的公众号【前端小馆】，欢迎大家留言和我一起来讨论技术。
 
