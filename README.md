@@ -41,8 +41,7 @@
  6. [深入理解 JavaScript 中的类与继承](https://github.com/yinguangyao/blog/issues/29)
  
 ## 工作思考
- 1. [对跨域页面通信的一些思索 #33
-](https://github.com/yinguangyao/blog/issues/33)
+ 1. [对跨域页面通信的一些思索](https://github.com/yinguangyao/blog/issues/33)
  2. [记一个跨域问题](https://github.com/yinguangyao/blog/issues/32)
 
 ## 工程化
