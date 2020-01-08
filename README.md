@@ -1,6 +1,6 @@
 这是我的个人博客，目前分为underscore源码分析系列、React系列和TypeScript系列和编程技巧相关的四个部分。
 
-
+部分链接已经失效，原来的域名到期了，换了一个新域名，可以访问：http://blog.gyyin.top
 ## underscore源码剖析
 
  1. [underscore源码剖析之整体架构][4]
