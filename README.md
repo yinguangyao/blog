@@ -40,17 +40,22 @@
  5. [从 ECMA 规范看 JavaScript 类型转换](https://github.com/yinguangyao/blog/issues/30)
  6. [深入理解 JavaScript 中的类与继承](https://github.com/yinguangyao/blog/issues/29)
  
+## 工作思考
+ 1. [对跨域页面通信的一些思索 #33
+](https://github.com/yinguangyao/blog/issues/33)
+ 2. [记一个跨域问题](https://github.com/yinguangyao/blog/issues/32)
+
+## 工程化
+ 1. [前端 CI/CD 初探](http://share.gyyin.top/Shopee/CI.html)
+ 2. [mock server实践](https://github.com/yinguangyao/blog/issues/28)
+ 
 ## 总结
 
  1. [再见，携程](https://github.com/yinguangyao/blog/issues/24) 
  2. [2019展望](https://github.com/yinguangyao/blog/issues/21) 
  3. [富爸爸，穷爸爸](https://github.com/yinguangyao/blog/issues/25)
+ 4. [关于编程学习](https://github.com/yinguangyao/blog/issues/31)
 
-## 其他
-
- 1. [mock server实践](https://github.com/yinguangyao/blog/issues/28)
- 2. [关于编程学习](https://github.com/yinguangyao/blog/issues/31)
- 3. [记一个跨域问题](https://github.com/yinguangyao/blog/issues/32)
 
 **PS**：欢迎大家关注我的公众号【前端小馆】，欢迎大家留言和我一起来讨论技术。
 
