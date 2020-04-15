@@ -27,6 +27,7 @@
 
  1. [策略模式和表驱动优化你的条件语句][18]
  2. [《编写可读代码的艺术》笔记][20]
+ 3. [前端开发中的 AOP 和 IoC](https://github.com/yinguangyao/blog/issues/39) 
 
 ## JavaScript 相关
 
