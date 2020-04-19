@@ -22,6 +22,7 @@
  7. [从零实现 Redux 和 React-redux][15]
  8. [怎样用 React Hooks 实现 Vue3 Composition API？][16]
  9. [如何写好 React 业务代码？][17]
+ 10. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
 
 ## 编程技巧
 
