@@ -24,6 +24,10 @@
  9. [如何写好 React 业务代码？][17]
  10. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
 
+## ES6 系列
+ 1. [深入理解 ES6 Proxy](https://github.com/yinguangyao/blog/issues/41)
+ 2. [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38)
+ 3. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34)
 ## 编程技巧
 
  1. [策略模式和表驱动优化你的条件语句][18]
