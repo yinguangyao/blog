@@ -23,6 +23,7 @@
  8. [怎样用 React Hooks 实现 Vue3 Composition API？][16]
  9. [如何写好 React 业务代码？][17]
  10. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
+ 11. [React Hooks 最佳实践](https://zhuanlan.zhihu.com/p/136171624)
 
 ## ES6 系列
  1. [深入理解 ES6 Proxy](https://github.com/yinguangyao/blog/issues/41)
