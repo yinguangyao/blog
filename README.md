@@ -47,15 +47,7 @@
  2. [记一个跨域问题][25]
  3. [前端 CI/CD 初探][26]
  4. [mock server实践][27]
- 5. 前端同构实践（计划中）
- 6. docker和k8s指南（计划中）
- 7. js bridge交互原理（计划中）
- 8. schema、deeplink、universal link（计划中）
- 9. Github Actions使用指南（计划中）
- 10. 使用 Groovy 编写 Jenkins Pipeline（流水线）（计划中）
- 11. 深入理解 webpack 原理（计划中）
- 12. 基于 RABC 的权限设计（计划中）
- 13. Nestjs与typeorm实践
+ 5. [记一个同构问题](https://github.com/yinguangyao/blog/issues/42)
  
 ## 总结
 
