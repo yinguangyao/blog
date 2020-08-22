@@ -47,7 +47,7 @@
  2. [记一个跨域问题][25]
  3. [前端 CI/CD 初探][26]
  4. [mock server实践][27]
- 5. [记一个同构问题](https://github.com/yinguangyao/blog/issues/42)
+ 5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
  
 ## 总结
 
