@@ -48,6 +48,7 @@
  3. [前端 CI/CD 初探][26]
  4. [mock server实践][27]
  5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
+ 6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
  
 ## 总结
 
