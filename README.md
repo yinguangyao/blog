@@ -49,6 +49,7 @@
  4. [mock server实践][27]
  5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
  6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
+ 7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
  
 ## 总结
 
