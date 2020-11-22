@@ -51,6 +51,7 @@
  6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
  7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
  8. [技术和方案，不应该拆开看](https://github.com/yinguangyao/blog/issues/45)
+ 9. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
  
 ## 总结
 
