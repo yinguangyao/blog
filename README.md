@@ -39,8 +39,9 @@
 
  1. [实现一个bind函数][19]
  2. [JS 函数高阶应用][21]
- 5. [从 ECMA 规范看 JavaScript 类型转换][22]
- 6. [深入理解 JavaScript 中的类与继承][23]
+ 3. [从 ECMA 规范看 JavaScript 类型转换][22]
+ 4. [深入理解 JavaScript 中的类与继承][23]
+ 5. [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48)
  
 ## 工作沉淀
  1. [对跨域页面通信的深入思考][24]
