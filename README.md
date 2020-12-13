@@ -6,15 +6,15 @@
  2. [underscore源码剖析之基础方法][2]
  3. [underscore源码剖析之数组遍历函数分析（一）][3]
  4. [underscore源码剖析之数组遍历函数分析（二）][4]
- 5. [underscore throttle节流函数分析][5]
- 6. [underscore debounce防抖动函数分析][6]
- 7. [underscore查找索引函数分析][7]
- 8. [60行代码实现模板引擎][8]
+ 5. [underscore源码剖析之throttle节流函数][5]
+ 6. [underscore源码剖析之debounce防抖动函数][6]
+ 7. [underscore源码剖析之查找索引函数][7]
+ 8. [underscore源码剖析之实现模板引擎][8]
 
 ## React杂谈
 
- 1. [Redux 源码分析][9]
- 2. [React 状态管理一览][10]
+ 1. [Redux 源码简单分析][9]
+ 2. [浅谈 React 状态管理][10]
  3. [深入理解 React][11]
  4. [Mobx 项目实践][12]
  5. [浅谈一种新的状态管理实现][13]  
@@ -43,16 +43,18 @@
  4. [深入理解 JavaScript 中的类与继承][23]
  5. [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48)
  
-## 工作沉淀
+## 工作思考
+
  1. [对跨域页面通信的深入思考][24]
  2. [怎么解决跨域问题][25]
  3. [前端 CI/CD 初探][26]
- 4. [mock server实践][27]
+ 4. [Mock Server实践][27]
  5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
  6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
  7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
  8. [技术和方案，不应该拆开看](https://github.com/yinguangyao/blog/issues/45)
  9. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
+ 10. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
  
 ## 总结
 
