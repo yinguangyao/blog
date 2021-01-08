@@ -1,17 +1,21 @@
 这是我的个人博客，将会持续更新文章，欢迎关注我的公众号【前端小馆】，也欢迎加入我们的 QQ 交流群：468273103
 
-## underscore源码剖析
+## 工作沉淀
 
- 1. [underscore源码剖析之整体架构][1]
- 2. [underscore源码剖析之基础方法][2]
- 3. [underscore源码剖析之数组遍历函数分析（一）][3]
- 4. [underscore源码剖析之数组遍历函数分析（二）][4]
- 5. [underscore源码剖析之throttle节流函数][5]
- 6. [underscore源码剖析之debounce防抖动函数][6]
- 7. [underscore源码剖析之查找索引函数][7]
- 8. [underscore源码剖析之实现模板引擎][8]
-
-## React杂谈
+ 1. [对跨域页面通信的深入思考][24]
+ 2. [怎么解决跨域问题][25]
+ 3. [前端 CI/CD 初探][26]
+ 4. [Mock Server实践][27]
+ 5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
+ 6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
+ 7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
+ 8. [技术和方案，不应该拆开看](https://github.com/yinguangyao/blog/issues/45)
+ 9. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
+ 10. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
+ 11. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
+ 
+ 
+ ## React杂谈
 
  1. [Redux 源码简单分析][9]
  2. [浅谈 React 状态管理][10]
@@ -24,11 +28,24 @@
  9. [如何写好 React 业务代码？][17]
  10. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
  11. [React Hooks 最佳实践](https://zhuanlan.zhihu.com/p/136171624)
+ 
+## underscore源码剖析
+
+ 1. [underscore源码剖析之整体架构][1]
+ 2. [underscore源码剖析之基础方法][2]
+ 3. [underscore源码剖析之数组遍历函数分析（一）][3]
+ 4. [underscore源码剖析之数组遍历函数分析（二）][4]
+ 5. [underscore源码剖析之throttle节流函数][5]
+ 6. [underscore源码剖析之debounce防抖动函数][6]
+ 7. [underscore源码剖析之查找索引函数][7]
+ 8. [underscore源码剖析之实现模板引擎][8]
+
 
 ## ES6 系列
  1. [深入理解 ES6 Proxy](https://github.com/yinguangyao/blog/issues/41)
  2. [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38)
  3. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34)
+ 
 ## 编程技巧
 
  1. [策略模式和表驱动优化你的条件语句][18]
@@ -43,18 +60,6 @@
  4. [深入理解 JavaScript 中的类与继承][23]
  5. [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48)
  
-## 工作思考
-
- 1. [对跨域页面通信的深入思考][24]
- 2. [怎么解决跨域问题][25]
- 3. [前端 CI/CD 初探][26]
- 4. [Mock Server实践][27]
- 5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
- 6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
- 7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
- 8. [技术和方案，不应该拆开看](https://github.com/yinguangyao/blog/issues/45)
- 9. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
- 10. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
  
 ## 总结
 
