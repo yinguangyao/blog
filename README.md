@@ -5,14 +5,13 @@
  1. [对跨域页面通信的深入思考][24]
  2. [怎么解决跨域问题][25]
  3. [前端 CI/CD 初探][26]
- 4. [Mock Server实践][27]
- 5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
- 6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
- 7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
- 8. [技术和方案，不应该拆开看](https://github.com/yinguangyao/blog/issues/45)
- 9. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
- 10. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
- 11. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
+ 4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
+ 5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
+ 6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
+ 7. [技术和方案，不应该拆开看](https://github.com/yinguangyao/blog/issues/45)
+ 8. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
+ 9. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
+ 10. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
  
  
  ## React杂谈
