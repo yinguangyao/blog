@@ -1,16 +1,15 @@
-这是我的个人博客，将会持续更新文章。
+这是我的个人博客，将会持续更新文章。可以关注我的微信公众号【前端小馆】，无广告，不定时推送原创文章。
 
-## 工作沉淀
+我在慕课网写了一本专栏，覆盖毕业1-3年初中级开发的知识点，欢迎大家支持一下：[Web 前端修炼指南](https://www.imooc.com/read/72)
 
- 1. [对跨域页面通信的深入思考][24]
- 2. [怎么解决跨域问题][25]
- 3. [前端 CI/CD 初探][26]
- 4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
- 5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
- 6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
- 7. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
- 8. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
- 9. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
+
+## 深入 ES6 系列
+ 1. [深入理解 ES6 中的 Class 和 extends](https://github.com/yinguangyao/blog/issues/53)
+ 2. [深入理解回调函数与 Promise](https://github.com/yinguangyao/blog/issues/51)
+ 3. [深入理解 generator 和 async](https://github.com/yinguangyao/blog/issues/52)
+ 4. [深入理解 ES6 Proxy](https://github.com/yinguangyao/blog/issues/41)
+ 5. [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38)
+ 6. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34)
  
  
  ## React杂谈
@@ -27,7 +26,7 @@
  10. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
  11. [React Hooks 最佳实践](https://zhuanlan.zhihu.com/p/136171624)
  
-## underscore源码剖析
+ ## Underscore源码剖析
 
  1. [underscore源码剖析之整体架构][1]
  2. [underscore源码剖析之基础方法][2]
@@ -37,12 +36,20 @@
  6. [underscore源码剖析之debounce防抖动函数][6]
  7. [underscore源码剖析之查找索引函数][7]
  8. [underscore源码剖析之实现模板引擎][8]
+ 
+ ## 工作沉淀
 
-
-## ES6 系列
- 1. [深入理解 ES6 Proxy](https://github.com/yinguangyao/blog/issues/41)
- 2. [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38)
- 3. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34)
+ 1. [对跨域页面通信的深入思考][24]
+ 2. [怎么解决跨域问题][25]
+ 3. [前端 CI/CD 初探][26]
+ 4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
+ 5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
+ 6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
+ 7. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
+ 8. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
+ 9. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
+ 10. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50)
+ 
  
 ## 编程技巧
 
