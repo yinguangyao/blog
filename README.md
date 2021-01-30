@@ -14,17 +14,15 @@
  
  ## React杂谈
 
- 1. [Redux 源码简单分析][9]
- 2. [浅谈 React 状态管理][10]
- 3. [深入理解 React][11]
- 4. [Mobx 项目实践][12]
- 5. [浅谈一种新的状态管理实现][13]  
- 6. [浅谈 React diff实现][14]
- 7. [从零实现 Redux 和 React-redux][15]
- 8. [怎样用 React Hooks 实现 Vue3 Composition API？][16]
- 9. [如何写好 React 业务代码？][17]
- 10. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
- 11. [React Hooks 最佳实践](https://zhuanlan.zhihu.com/p/136171624)
+ 1. [浅谈 React 状态管理][10]
+ 2. [深入理解 React][11]
+ 3. [Mobx 项目实践][12]
+ 4. [浅谈 React diff实现][14]
+ 5. [从零实现 Redux 和 React-redux][15]
+ 6. [怎样用 React Hooks 实现 Vue3 Composition API？][16]
+ 7. [如何写好 React 业务代码？][17]
+ 8. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
+ 9. [React Hooks 最佳实践](https://zhuanlan.zhihu.com/p/136171624)
  
  ## Underscore源码剖析
 
