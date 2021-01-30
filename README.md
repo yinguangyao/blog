@@ -1,5 +1,6 @@
 这是我的个人博客，将会持续更新文章。可以关注我的微信公众号【前端小馆】，无广告，不定时推送原创文章。
 
+我在慕课网写了一本专栏，覆盖毕业1-3年初中级开发的知识点，欢迎大家支持一下：[Web 前端修炼指南](https://www.imooc.com/read/72)
 
 ## 深入 ES6 系列
  1. [深入理解 ES6 中的 Class 和 extends](https://github.com/yinguangyao/blog/issues/53)
