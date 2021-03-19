@@ -11,6 +11,19 @@
  6. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34)
  
  
+ ## 工作沉淀
+
+ 1. [对跨域页面通信的深入思考][24]
+ 2. [怎么解决跨域问题][25]
+ 3. [前端 CI/CD 初探][26]
+ 4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
+ 5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
+ 6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
+ 7. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
+ 8. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
+ 9. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
+ 10. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50)
+ 
  ## React杂谈
 
  1. [浅谈 React 状态管理][10]
@@ -33,19 +46,7 @@
  6. [underscore源码剖析之debounce防抖动函数][6]
  7. [underscore源码剖析之查找索引函数][7]
  8. [underscore源码剖析之实现模板引擎][8]
- 
- ## 工作沉淀
 
- 1. [对跨域页面通信的深入思考][24]
- 2. [怎么解决跨域问题][25]
- 3. [前端 CI/CD 初探][26]
- 4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42)
- 5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43)
- 6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44)
- 7. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46)
- 8. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512)
- 9. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49)
- 10. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50)
  
  
 ## 编程技巧
