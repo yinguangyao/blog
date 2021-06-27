@@ -3,10 +3,10 @@
 我在慕课网写了一本专栏，覆盖毕业1-3年初中级开发的知识点，欢迎大家支持一下：[Web 前端修炼指南](https://www.imooc.com/read/72)
 
 ## 深入 ES6 系列
- 1. [深入理解 ES6 中的 Class 和 extends](https://github.com/yinguangyao/blog/issues/53)
- 2. [深入理解回调函数与 Promise](https://github.com/yinguangyao/blog/issues/51)
- 3. [深入理解 generator 和 async](https://github.com/yinguangyao/blog/issues/52)
- 4. [深入理解 ES6 Proxy](https://github.com/yinguangyao/blog/issues/41)
+ 1. [深入理解 ES6 中的 Class 和 extends 原理](https://github.com/yinguangyao/blog/issues/53)
+ 2. [深入理解回调函数与 Promise 原理](https://github.com/yinguangyao/blog/issues/51)
+ 3. [深入理解 generator 和 async 原理](https://github.com/yinguangyao/blog/issues/52)
+ 4. [ES6 Proxy 实践](https://github.com/yinguangyao/blog/issues/41)
  5. [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38)
  6. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34)
  
