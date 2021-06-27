@@ -35,6 +35,7 @@
  7. [如何写好 React 业务代码？][17]
  8. [浅谈 React 组件设计](https://github.com/yinguangyao/blog/issues/40)
  9. [React Hooks 最佳实践](https://zhuanlan.zhihu.com/p/136171624)
+ 10. [从零实现 Mobx：深入理解 Mobx 原理](https://github.com/yinguangyao/blog/issues/54)
  
  ## Underscore源码剖析
 
