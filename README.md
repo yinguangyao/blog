@@ -1,4 +1,6 @@
-这是我的个人博客，将会持续更新文章。可以关注我的微信公众号【前端小馆】，无广告，不定时推送原创文章。
+我是尹光耀，2017年本科毕业于武汉大学。擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
+
+这是我的博客，将会持续更新文章。也可以关注我的微信公众号【前端小馆】，无广告，不定时推送原创文章。
 
 ## React 系列
  1. [各流派 React 状态管理对比和原理实现](https://github.com/yinguangyao/blog/issues/56) <sub>`2021`</sub>
@@ -23,6 +25,7 @@
  5. [策略模式和表驱动优化你的条件语句][18] <sub>`2019`</sub>
  6. [前端开发中的状态机](https://github.com/yinguangyao/blog/issues/57) <sub>`2019`</sub>
  7. [前端开发中的 AOP 和 IoC](https://github.com/yinguangyao/blog/issues/39)  <sub>`2019`</sub>
+
 ## 重学 ES6
  1. [深入理解 ES6 中的 Class 和 extends 原理](https://github.com/yinguangyao/blog/issues/53) <sub>`2020`</sub>
  2. [深入理解 JavaScript 模块系统](https://github.com/yinguangyao/blog/issues/61) <sub>`2020`</sub>
@@ -32,6 +35,7 @@
  6. [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38) <sub>`2020`</sub>
  7. [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34) <sub>`2020`</sub>
  8. [面向未来的 ECMAScript 标准](https://github.com/yinguangyao/blog/issues/60) <sub>`2020`</sub>
+
 ## 前端工程化杂谈
  1. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46) <sub>`2021`</sub>
  2. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512) <sub>`2021`</sub>
@@ -40,6 +44,10 @@
  5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43) <sub>`2020`</sub>
  6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
  7. [前端 CI/CD 初探][26] <sub>`2019`</sub>
+
+## Canvas
+ 1. [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
+ 2. [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48) <sub>`2021`</sub>
 ## Underscore 源码解读
  1. [underscore源码剖析之整体架构][1] <sub>`2018`</sub>
  2. [underscore源码剖析之基础方法][2] <sub>`2018`</sub>
@@ -51,17 +59,18 @@
  8. [underscore源码剖析之实现模板引擎][8] <sub>`2018`</sub>
 
 ## JavaScript 进阶
- 1. [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48) <sub>`2021`</sub>
- 2. [实现一个bind函数][19] <sub>`2019`</sub>
- 3. [JS 函数高阶应用][21] <sub>`2019`</sub>
- 4. [怎么解决跨域问题][25] <sub>`2019`</sub>
- 5. [对跨域页面通信的深入思考][24] <sub>`2019`</sub>
- 8. [从 ECMA 规范看 JavaScript 类型转换][22] <sub>`2019`</sub>
- 12. [万事开头难 —— 如何起一个好的变量名?](https://github.com/yinguangyao/blog/issues/66) <sub>`2019`</sub>
- 13. [你不了解的JS运算符小技巧](https://github.com/yinguangyao/blog/issues/67) <sub>`2019`</sub>
+ 1. [实现一个bind函数][19] <sub>`2019`</sub>
+ 2. [JS 函数高阶应用][21] <sub>`2019`</sub>
+ 3. [怎么解决跨域问题][25] <sub>`2019`</sub>
+ 4. [对跨域页面通信的深入思考][24] <sub>`2019`</sub>
+ 5. [从 ECMA 规范看 JavaScript 类型转换][22] <sub>`2019`</sub>
+ 6. [万事开头难 —— 如何起一个好的变量名?](https://github.com/yinguangyao/blog/issues/66) <sub>`2019`</sub>
+ 7. [你不了解的JS运算符小技巧](https://github.com/yinguangyao/blog/issues/67) <sub>`2019`</sub>
+
 ## 移动端开发
  1. [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49) <sub>`2021`</sub>
  2. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
+
 ## 其他
  1. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
  2. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
