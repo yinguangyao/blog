@@ -43,7 +43,8 @@
  4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42) <sub>`2020`</sub>
  5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43) <sub>`2020`</sub>
  6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
- 7. [前端 CI/CD 初探][26] <sub>`2019`</sub>
+ 7. [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
+ 8. [前端 CI/CD 初探][26] <sub>`2019`</sub>
 
 ## Canvas
  1. [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
