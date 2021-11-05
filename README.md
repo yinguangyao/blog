@@ -1,4 +1,4 @@
-我是尹光耀，2017年本科毕业于武汉大学。擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
+我是尹光耀，擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
 
 我是慕课网《Web 前端修炼指南》的作者，这是我的博客，将会持续更新文章。也可以关注我的微信公众号【前端小馆】，无广告，不定时推送原创文章。
 
@@ -73,11 +73,11 @@
  2. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
 
 ## 其他
- 1. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
- 2. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
- 3. [关于编程学习][31] <sub>`2018`</sub>
+ 1. [回母校教前端的经历][https://github.com/yinguangyao/blog/issues/70] <sub>`2021`</sub>
+ 2. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
+ 3. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
+ 4. [关于编程学习][31] <sub>`2018`</sub>
  
-
 
   [1]: https://github.com/yinguangyao/blog/issues/7
   [2]: https://github.com/yinguangyao/blog/issues/15
