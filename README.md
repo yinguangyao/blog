@@ -77,9 +77,11 @@
 
 ## 其他
  1. [回母校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
- 2. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
- 3. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
- 4. [关于编程学习][31] <sub>`2018`</sub>
+ 2. [关于时间和金钱](https://github.com/yinguangyao/blog/issues/74) <sub>`2020`</sub>
+ 3. [前端面试技巧和总结](https://github.com/yinguangyao/blog/issues/75) <sub>`2020`</sub>
+ 4. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
+ 5. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
+ 6. [关于编程学习][31] <sub>`2018`</sub>
  
 
   [1]: https://github.com/yinguangyao/blog/issues/7
