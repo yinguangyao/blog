@@ -1,4 +1,3 @@
-我是 null，擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
 
 
 ## JavaScript 进阶
