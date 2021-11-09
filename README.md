@@ -1,4 +1,4 @@
-
+我是 null，擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
 
 ## JavaScript 进阶
  1. [实现一个bind函数][19] <sub>`2019`</sub>
@@ -79,7 +79,7 @@
  2. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
 
 ## 其他
- 1. [回母校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
+ 1. [回学校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
  2. [关于时间和金钱](https://github.com/yinguangyao/blog/issues/74) <sub>`2020`</sub>
  3. [前端面试技巧和总结](https://github.com/yinguangyao/blog/issues/75) <sub>`2020`</sub>
  4. [分析《一拳超人》最终走向](https://github.com/yinguangyao/blog/issues/76) <sub>`2020`</sub>
