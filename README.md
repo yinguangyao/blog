@@ -50,14 +50,15 @@
  13. [Mobx 项目实践][12] <sub>`2018`</sub>
 
 ## 前端工程化杂谈
- 1. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46) <sub>`2021`</sub>
- 2. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512) <sub>`2021`</sub>
- 3. [Web 安全之恶意扫描](https://github.com/yinguangyao/blog/issues/55) <sub>`2021`</sub>
- 4. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42) <sub>`2020`</sub>
- 5. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43) <sub>`2020`</sub>
- 6. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
- 7. [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
- 8. [前端 CI/CD 初探][26] <sub>`2019`</sub>
+ 1. [whistle 开发调试最佳实践](https://github.com/yinguangyao/blog/issues/77) <sub>`2022`</sub>
+ 2. [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46) <sub>`2021`</sub>
+ 3. [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512) <sub>`2021`</sub>
+ 4. [Web 安全之恶意扫描](https://github.com/yinguangyao/blog/issues/55) <sub>`2021`</sub>
+ 5. [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42) <sub>`2020`</sub>
+ 6. [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43) <sub>`2020`</sub>
+ 7. [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
+ 8. [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
+ 9. [前端 CI/CD 初探][26] <sub>`2019`</sub>
 
 ## Canvas
  1. [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
