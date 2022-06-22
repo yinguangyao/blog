@@ -1,5 +1,7 @@
 我是 null，擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
 
+闲暇之余，我喜欢在知乎（[前端漫谈](https://www.zhihu.com/column/c_158541431)）输出技术博客，也是慕课网[《web前端开发修炼指南》](https://www.imooc.com/read/72)的作者，擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
+
 ## JavaScript 进阶
  1. [实现一个bind函数][19] <sub>`2019`</sub>
  2. [JS 函数高阶应用][21] <sub>`2019`</sub>
@@ -81,11 +83,10 @@
 
 ## 其他
  1. [回学校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
- 2. [关于时间和金钱](https://github.com/yinguangyao/blog/issues/74) <sub>`2020`</sub>
- 3. [前端面试技巧和总结](https://github.com/yinguangyao/blog/issues/75) <sub>`2020`</sub>
- 4. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
- 5. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
- 6. [关于编程学习][31] <sub>`2018`</sub>
+ 2. [前端面试技巧和总结](https://github.com/yinguangyao/blog/issues/75) <sub>`2020`</sub>
+ 3. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
+ 4. [富爸爸，穷爸爸][30] <sub>`2018`</sub>
+ 5. [关于编程学习][31] <sub>`2018`</sub>
  
 
   [1]: https://github.com/yinguangyao/blog/issues/7
