@@ -82,6 +82,7 @@
  2. [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
 
 ## 其他
+ 1. [我在腾讯这一年](https://github.com/yinguangyao/blog/issues/79) <sub>`2022`</sub>
  1. [回学校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
  2. [前端面试技巧和总结](https://github.com/yinguangyao/blog/issues/75) <sub>`2020`</sub>
  3. [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
