@@ -2,6 +2,8 @@
 
 闲暇之余，我喜欢在知乎（[前端漫谈](https://www.zhihu.com/column/c_158541431)）输出技术博客，也是慕课网[《web前端开发修炼指南》](https://www.imooc.com/read/72)的作者，擅长移动 Web 开发、React 全家桶、前端工程化、Web 渲染等方面的技术栈。
 
+感兴趣可以加我微信 gioryyin 一起尬聊。
+
 ## JavaScript 进阶
  1. [实现一个bind函数][19] <sub>`2019`</sub>
  2. [JS 函数高阶应用][21] <sub>`2019`</sub>
