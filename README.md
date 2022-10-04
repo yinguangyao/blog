@@ -5,6 +5,7 @@
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
 ## JavaScript 进阶
+ - [异步分片计算在腾讯文档的实践](https://github.com/yinguangyao/blog/issues/82) <sub>`2022`</sub>
  - [实现一个bind函数][19] <sub>`2019`</sub>
  - [JS 函数高阶应用][21] <sub>`2019`</sub>
  - [怎么解决跨域问题][25] <sub>`2019`</sub>
