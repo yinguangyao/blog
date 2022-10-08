@@ -17,15 +17,6 @@
  - [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
  - [对跨域页面通信的深入思考][24] <sub>`2019`</sub>
  
-## JavaScript 进阶
- - [实现一个bind函数][19] <sub>`2019`</sub>
- - [JS 函数高阶应用][21] <sub>`2019`</sub>
- - [怎么解决跨域问题][25] <sub>`2019`</sub>
- - [从 ECMA 规范看 JavaScript 类型转换][22] <sub>`2019`</sub>
- - [万事开头难 —— 如何起一个好的变量名?](https://github.com/yinguangyao/blog/issues/66) <sub>`2019`</sub>
- - [你不了解的JS运算符小技巧](https://github.com/yinguangyao/blog/issues/67) <sub>`2019`</sub>
- - [JavaScript 的前世今生](https://github.com/yinguangyao/blog/issues/71) <sub>`2019`</sub>
- 
  ## React 系列
  - [介绍 Preact Signals](https://github.com/yinguangyao/blog/issues/80) <sub>`2022`</sub>
  - [各流派 React 状态管理对比和原理实现](https://github.com/yinguangyao/blog/issues/56) <sub>`2021`</sub>
@@ -72,6 +63,14 @@
  - [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
  - [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48) <sub>`2021`</sub>
 
+## JavaScript 进阶
+ - [实现一个bind函数][19] <sub>`2019`</sub>
+ - [JS 函数高阶应用][21] <sub>`2019`</sub>
+ - [怎么解决跨域问题][25] <sub>`2019`</sub>
+ - [从 ECMA 规范看 JavaScript 类型转换][22] <sub>`2019`</sub>
+ - [万事开头难 —— 如何起一个好的变量名?](https://github.com/yinguangyao/blog/issues/66) <sub>`2019`</sub>
+ - [你不了解的JS运算符小技巧](https://github.com/yinguangyao/blog/issues/67) <sub>`2019`</sub>
+ - [JavaScript 的前世今生](https://github.com/yinguangyao/blog/issues/71) <sub>`2019`</sub>
 
 ## Underscore 源码解读
  - [underscore源码剖析之整体架构][1] <sub>`2018`</sub>
