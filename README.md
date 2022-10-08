@@ -15,31 +15,7 @@
  - [你不了解的JS运算符小技巧](https://github.com/yinguangyao/blog/issues/67) <sub>`2019`</sub>
  - [JavaScript 的前世今生](https://github.com/yinguangyao/blog/issues/71) <sub>`2019`</sub>
  
- 
- 
-## JavaScript 面向对象
- - [JavaScript 面向对象编程](https://github.com/yinguangyao/blog/issues/62) <sub>`2020`</sub>
- - [深入理解 JavaScript 中的类与继承][23] <sub>`2020`</sub>
- - [前端开发中常用的设计模式](https://github.com/yinguangyao/blog/issues/64) <sub>`2020`</sub>
- - [写好业务代码 —— 前端 MVC 分层的实践](https://github.com/yinguangyao/blog/issues/63) <sub>`2020`</sub>
- - [策略模式和表驱动优化你的条件语句][18] <sub>`2019`</sub>
- - [前端开发中的状态机](https://github.com/yinguangyao/blog/issues/57) <sub>`2019`</sub>
- - [前端开发中的 AOP 和 IoC](https://github.com/yinguangyao/blog/issues/39)  <sub>`2019`</sub>
- - [Babel 下的 class 和 extends](https://github.com/yinguangyao/blog/issues/72) <sub>`2019`</sub>
- 
- 
-## 重学 ES6
- - [深入理解 ES6 中的 Class 和 extends 原理](https://github.com/yinguangyao/blog/issues/53) <sub>`2020`</sub>
- - [深入理解 JavaScript 模块系统](https://github.com/yinguangyao/blog/issues/61) <sub>`2020`</sub>
- - [深入理解回调函数与 Promise 原理](https://github.com/yinguangyao/blog/issues/51) <sub>`2020`</sub>
- - [深入理解 generator 和 async 原理](https://github.com/yinguangyao/blog/issues/52) <sub>`2020`</sub>
- - [ES6 Proxy 实践](https://github.com/yinguangyao/blog/issues/41) <sub>`2020`</sub>
- - [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38) <sub>`2020`</sub>
- - [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34) <sub>`2020`</sub>
- - [面向未来的 ECMAScript 标准](https://github.com/yinguangyao/blog/issues/60) <sub>`2020`</sub>
- 
- 
-## React 系列
+ ## React 系列
  - [介绍 Preact Signals](https://github.com/yinguangyao/blog/issues/80) <sub>`2022`</sub>
  - [各流派 React 状态管理对比和原理实现](https://github.com/yinguangyao/blog/issues/56) <sub>`2021`</sub>
  - [从零实现 Redux 和 React-redux][15] <sub>`2020`</sub>
@@ -65,6 +41,30 @@
  - [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
  - [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
  - [前端 CI/CD 初探][26] <sub>`2019`</sub>
+ 
+ ## 移动端开发
+ - [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49) <sub>`2021`</sub>
+ - [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
+ 
+## JavaScript 面向对象
+ - [JavaScript 面向对象编程](https://github.com/yinguangyao/blog/issues/62) <sub>`2020`</sub>
+ - [深入理解 JavaScript 中的类与继承][23] <sub>`2020`</sub>
+ - [前端开发中常用的设计模式](https://github.com/yinguangyao/blog/issues/64) <sub>`2020`</sub>
+ - [写好业务代码 —— 前端 MVC 分层的实践](https://github.com/yinguangyao/blog/issues/63) <sub>`2020`</sub>
+ - [策略模式和表驱动优化你的条件语句][18] <sub>`2019`</sub>
+ - [前端开发中的状态机](https://github.com/yinguangyao/blog/issues/57) <sub>`2019`</sub>
+ - [前端开发中的 AOP 和 IoC](https://github.com/yinguangyao/blog/issues/39)  <sub>`2019`</sub>
+ - [Babel 下的 class 和 extends](https://github.com/yinguangyao/blog/issues/72) <sub>`2019`</sub>
+ 
+## 重学 ES6
+ - [深入理解 ES6 中的 Class 和 extends 原理](https://github.com/yinguangyao/blog/issues/53) <sub>`2020`</sub>
+ - [深入理解 JavaScript 模块系统](https://github.com/yinguangyao/blog/issues/61) <sub>`2020`</sub>
+ - [深入理解回调函数与 Promise 原理](https://github.com/yinguangyao/blog/issues/51) <sub>`2020`</sub>
+ - [深入理解 generator 和 async 原理](https://github.com/yinguangyao/blog/issues/52) <sub>`2020`</sub>
+ - [ES6 Proxy 实践](https://github.com/yinguangyao/blog/issues/41) <sub>`2020`</sub>
+ - [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38) <sub>`2020`</sub>
+ - [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34) <sub>`2020`</sub>
+ - [面向未来的 ECMAScript 标准](https://github.com/yinguangyao/blog/issues/60) <sub>`2020`</sub>
 
 ## Canvas
  - [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
@@ -81,9 +81,6 @@
  - [underscore源码剖析之查找索引函数][7] <sub>`2018`</sub>
  - [underscore源码剖析之实现模板引擎][8] <sub>`2018`</sub>
 
-## 移动端开发
- - [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49) <sub>`2021`</sub>
- - [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
 
 ## 其他
  - [知乎前端回答合集](https://github.com/yinguangyao/blog/issues/81) <sub>`2022`</sub>
