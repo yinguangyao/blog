@@ -4,12 +4,23 @@
 
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
-## JavaScript 进阶
+## 工作沉淀
  - [异步分片计算在腾讯文档的实践](https://github.com/yinguangyao/blog/issues/82) <sub>`2022`</sub>
+ - [我在腾讯这一年](https://github.com/yinguangyao/blog/issues/79) <sub>`2022`</sub>
+ - [回学校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
+ - [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49) <sub>`2021`</sub>
+ - [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
+ - [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46) <sub>`2021`</sub>
+ - [Web 安全之恶意扫描](https://github.com/yinguangyao/blog/issues/55) <sub>`2021`</sub>
+ - [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42) <sub>`2020`</sub>
+ - [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
+ - [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
+ - [对跨域页面通信的深入思考][24] <sub>`2019`</sub>
+ 
+## JavaScript 进阶
  - [实现一个bind函数][19] <sub>`2019`</sub>
  - [JS 函数高阶应用][21] <sub>`2019`</sub>
  - [怎么解决跨域问题][25] <sub>`2019`</sub>
- - [对跨域页面通信的深入思考][24] <sub>`2019`</sub>
  - [从 ECMA 规范看 JavaScript 类型转换][22] <sub>`2019`</sub>
  - [万事开头难 —— 如何起一个好的变量名?](https://github.com/yinguangyao/blog/issues/66) <sub>`2019`</sub>
  - [你不了解的JS运算符小技巧](https://github.com/yinguangyao/blog/issues/67) <sub>`2019`</sub>
@@ -33,18 +44,9 @@
 
 ## 前端工程化杂谈
  - [whistle 开发调试最佳实践](https://github.com/yinguangyao/blog/issues/77) <sub>`2022`</sub>
- - [有必要使用服务端渲染（SSR）吗？](https://github.com/yinguangyao/blog/issues/46) <sub>`2021`</sub>
  - [使用 MonoRepo 管理前端项目](https://zhuanlan.zhihu.com/p/333021512) <sub>`2021`</sub>
- - [Web 安全之恶意扫描](https://github.com/yinguangyao/blog/issues/55) <sub>`2021`</sub>
- - [记一个 Nuxt 同构问题](https://github.com/yinguangyao/blog/issues/42) <sub>`2020`</sub>
  - [深入理解 webpack 模块](https://github.com/yinguangyao/blog/issues/43) <sub>`2020`</sub>
- - [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
- - [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
  - [前端 CI/CD 初探][26] <sub>`2019`</sub>
- 
- ## 移动端开发
- - [移动端开发技术详解](https://github.com/yinguangyao/blog/issues/49) <sub>`2021`</sub>
- - [JS Bridge 通信原理与实践](https://github.com/yinguangyao/blog/issues/50) <sub>`2021`</sub>
  
 ## JavaScript 面向对象
  - [JavaScript 面向对象编程](https://github.com/yinguangyao/blog/issues/62) <sub>`2020`</sub>
@@ -84,8 +86,6 @@
 
 ## 其他
  - [知乎前端回答合集](https://github.com/yinguangyao/blog/issues/81) <sub>`2022`</sub>
- - [我在腾讯这一年](https://github.com/yinguangyao/blog/issues/79) <sub>`2022`</sub>
- - [回学校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
  - [前端面试技巧和总结](https://github.com/yinguangyao/blog/issues/75) <sub>`2020`</sub>
  - [《编写可读代码的艺术》笔记][20] <sub>`2018`</sub>
  - [富爸爸，穷爸爸][30] <sub>`2018`</sub>
