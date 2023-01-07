@@ -5,7 +5,7 @@
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
 ## 工作沉淀
- - [腾讯文档智能表格渲染层 Feature 设计](https://github.com/yinguangyao/blog/issues/83) <sub>`2022`</sub>
+ - [腾讯文档智能表格渲染层 Feature 设计](https://github.com/yinguangyao/blog/issues/83) <sub>`2023`</sub>
  - [异步分片计算在腾讯文档的实践](https://github.com/yinguangyao/blog/issues/82) <sub>`2022`</sub>
  - [我在腾讯这一年](https://github.com/yinguangyao/blog/issues/79) <sub>`2022`</sub>
  - [回学校教前端的经历](https://github.com/yinguangyao/blog/issues/70) <sub>`2021`</sub>
