@@ -5,7 +5,6 @@
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
 ## 工作沉淀
- - [浅谈 Canvas 渲染引擎设计](https://github.com/yinguangyao/blog/issues/84) <sub>`2023`</sub>
  - [腾讯文档智能表格渲染层 Feature 设计](https://github.com/yinguangyao/blog/issues/83) <sub>`2023`</sub>
  - [异步分片计算在腾讯文档的实践](https://github.com/yinguangyao/blog/issues/82) <sub>`2022`</sub>
  - [我在腾讯这一年](https://github.com/yinguangyao/blog/issues/79) <sub>`2022`</sub>
@@ -18,6 +17,12 @@
  - [记一次 Nuxt 登录页优化](https://github.com/yinguangyao/blog/issues/44) <sub>`2020`</sub>
  - [使用 Puppeteer 实现文件下载](https://github.com/yinguangyao/blog/issues/69) <sub>`2020`</sub>
  - [对跨域页面通信的深入思考][24] <sub>`2019`</sub>
+
+ ## Canvas
+ - [Leaferjs，全新的 Canvas 渲染引擎](https://github.com/yinguangyao/blog/issues/85) <sub>`2023`</sub>
+ - [浅谈 Canvas 渲染引擎设计](https://github.com/yinguangyao/blog/issues/84) <sub>`2023`</sub>
+ - [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
+ - [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48) <sub>`2021`</sub>
  
  ## React 系列
  - [介绍 Preact Signals](https://github.com/yinguangyao/blog/issues/80) <sub>`2022`</sub>
@@ -60,10 +65,6 @@
  - [一文搞懂 Dynamic Import 和 Top-level await 提案](https://github.com/yinguangyao/blog/issues/38) <sub>`2020`</sub>
  - [都2020年了，你还不会JavaScript 装饰器？](https://github.com/yinguangyao/blog/issues/34) <sub>`2020`</sub>
  - [面向未来的 ECMAScript 标准](https://github.com/yinguangyao/blog/issues/60) <sub>`2020`</sub>
-
-## Canvas
- - [KonvaJS 原理解析](https://github.com/yinguangyao/blog/issues/68) <sub>`2021`</sub>
- - [canvas 画一朵樱花](https://github.com/yinguangyao/blog/issues/48) <sub>`2021`</sub>
 
 ## JavaScript 进阶
  - [实现一个bind函数][19] <sub>`2019`</sub>
