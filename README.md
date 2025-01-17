@@ -5,8 +5,8 @@
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
 ## VSCode 源码分析系列
-- [VSCode 架构分析：启动和初始化](https://github.com/yinguangyao/blog/issues/86) <sub>`2024`</sub>
-- [VSCode 架构分析：依赖注入和组件](https://github.com/yinguangyao/blog/issues/87) <sub>`2024`</sub>
+- [VSCode 架构分析：启动和初始化](https://github.com/yinguangyao/blog/issues/86) <sub>`2025`</sub>
+- [VSCode 架构分析：依赖注入和组件](https://github.com/yinguangyao/blog/issues/87) <sub>`2025`</sub>
 
 
  ## React 系列
