@@ -4,6 +4,11 @@
 
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
+## AI 系列
+- [带你从零理解 MCP](https://github.com/yinguangyao/blog/issues/88) <sub>`2025`</sub>
+- [AI 新人类](https://github.com/yinguangyao/blog/issues/89) <sub>`2025`</sub>
+
+
 ## VSCode 源码分析系列
 - [VSCode 架构分析：启动和初始化](https://github.com/yinguangyao/blog/issues/86) <sub>`2025`</sub>
 - [VSCode 架构分析：依赖注入和组件](https://github.com/yinguangyao/blog/issues/87) <sub>`2025`</sub>
