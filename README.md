@@ -5,6 +5,7 @@
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
 ## AI 系列
+- [从 nanobot 理解 openclaw 核心设计](https://github.com/yinguangyao/blog/issues/90) <sub>`2026`</sub>
 - [带你从零理解 MCP](https://github.com/yinguangyao/blog/issues/88) <sub>`2025`</sub>
 - [AI 新人类](https://github.com/yinguangyao/blog/issues/89) <sub>`2025`</sub>
 
