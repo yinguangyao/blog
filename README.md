@@ -4,13 +4,22 @@
 
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
-## AI 系列
+## AI 理解
 - [我把 5 个 Coding Agent 塞进了一个 npm 包](https://github.com/yinguangyao/blog/issues/92) <sub>`2026`</sub>
 - [为 AI Agent 重新设计命令行](https://github.com/yinguangyao/blog/issues/91) <sub>`2026`</sub>
 - [从 nanobot 理解 openclaw 核心设计](https://github.com/yinguangyao/blog/issues/90) <sub>`2026`</sub>
 - [带你从零理解 MCP](https://github.com/yinguangyao/blog/issues/88) <sub>`2025`</sub>
 - [AI 新人类](https://github.com/yinguangyao/blog/issues/89) <sub>`2025`</sub>
 
+## 从零实现 Coding Agent 系列
+- [实现一个 Coding Agent（1）：一次 LLM 调用](https://github.com/yinguangyao/blog/issues/93) <sub>`2026`</sub>
+- [实现一个 Coding Agent（2）：让 LLM 流式响应](https://github.com/yinguangyao/blog/issues/94) <sub>`2026`</sub>
+- [实现一个 Coding Agent（3）：工具调用](https://github.com/yinguangyao/blog/issues/95) <sub>`2026`</sub>
+- [实现一个 Coding Agent（4）：ReAct 循环](https://github.com/yinguangyao/blog/issues/96) <sub>`2026`</sub>
+- [实现一个 Coding Agent（5）：真实的编码工具](https://github.com/yinguangyao/blog/issues/97) <sub>`2026`</sub>
+- [实现一个 Coding Agent（6）：并行工具调用](https://github.com/yinguangyao/blog/issues/98) <sub>`2026`</sub>
+- [实现一个 Coding Agent（7）：Skills](https://github.com/yinguangyao/blog/issues/99) <sub>`2026`</sub>
+- [实现一个 Coding Agent（8）：会话持久化与多会话](https://github.com/yinguangyao/blog/issues/100) <sub>`2026`</sub>
 
 ## VSCode 源码分析系列
 - [VSCode 架构分析：启动和初始化](https://github.com/yinguangyao/blog/issues/86) <sub>`2025`</sub>
