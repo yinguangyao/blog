@@ -5,6 +5,7 @@
 感兴趣可以加我微信 gioryyin 一起尬聊。
 
 ## AI 系列
+- [我把 5 个 Coding Agent 塞进了一个 npm 包](https://github.com/yinguangyao/blog/issues/92) <sub>`2026`</sub>
 - [为 AI Agent 重新设计命令行](https://github.com/yinguangyao/blog/issues/91) <sub>`2026`</sub>
 - [从 nanobot 理解 openclaw 核心设计](https://github.com/yinguangyao/blog/issues/90) <sub>`2026`</sub>
 - [带你从零理解 MCP](https://github.com/yinguangyao/blog/issues/88) <sub>`2025`</sub>
